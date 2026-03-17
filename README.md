@@ -1,4 +1,4 @@
-# my_shell-Custom-Python-Command-Interpreter
+# my_shell
 A lightweight, functional command-line interface (Shell) built in Python that emulates Windows CMD behavior. This project demonstrates core operating system concepts, including process management, environment variable handling, and I/O redirection.
 
 🚀 Features
